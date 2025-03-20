@@ -1,7 +1,7 @@
 # Meama Development Team
 
 <p align="center">
-  <img src="profile/assets/meama-logo.png" alt="Meama Logo" width="200"/>
+  <img src="	https://avatars.githubusercontent.com/u/180186962?…00&u=18754c5d1876db964c89ee4263dcb97012e8bf19&v=4" alt="Meama Logo" width="200"/>
 </p>
 
 > Building and managing custom Shopify solutions for Meama's global e-commerce presence
